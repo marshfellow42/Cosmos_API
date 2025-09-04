@@ -1,10 +1,10 @@
 # Cosmos API
 
-A API do nosso aplicativo Cosmos
+A API do nosso aplicativo [Cosmos](https://github.com/Luar6/Cosmos)
 
 Para rodar, primeiro você precisa instalar o [uv](https://docs.astral.sh/uv/getting-started/installation/)
 
-Depois de baixar o uv na sua máquina, só rodar o comando na pasta do seu projeto
+Depois de baixar o uv na sua máquina, só rodar o comando abaixo na pasta do projeto
 ```bash
 uv sync
 ```
