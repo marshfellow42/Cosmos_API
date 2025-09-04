@@ -1,5 +1,0 @@
-fastapi[standard]
-firebase_admin
-phonenumbers
-python-dotenv
-vercel_blob

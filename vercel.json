@@ -1,4 +1,5 @@
 {
+    "buildCommand": "pip install uv && uv sync --no-dev",
     "routes": [
       {
         "src": "/(.*)",

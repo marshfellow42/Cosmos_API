@@ -2,14 +2,16 @@
 
 A API do nosso aplicativo Cosmos
 
-Para rodar, primeiro você baixa todas as dependência por meio do pip
+Para rodar, primeiro você precisa instalar o [uv](https://docs.astral.sh/uv/getting-started/installation/)
+
+Depois de baixar o uv na sua máquina, só rodar o comando na pasta do seu projeto
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
-E depois roda ele
+E depois só rodar ele
 ```bash
-fastapi dev main.py
+uv run fastapi dev main.py
 ```
 
 Para checar se tudo deu certo, é só checar a UI do Swagger
